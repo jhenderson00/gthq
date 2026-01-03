@@ -1,0 +1,14 @@
+Add SOC 2 review of Encryption Key Management Policy
+
+Created comprehensive SOC 2 Type II readiness analysis for the
+Encryption Key Management Policy v1.0. Key findings:
+- Readiness Score: 2.5/5.0
+- 4 Critical, 6 High, 8 Medium, 5 Low severity gaps
+- Critical issues: 3-year key rotation (need 1-2 years max),
+  missing cryptographic specs, no HSM/KMS requirements,
+  no backup/recovery procedures
+- Estimated 8-10 weeks to audit readiness
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

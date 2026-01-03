@@ -1,0 +1,17 @@
+Add encryption key management policy review
+
+Review tez-policy-encryption-key-management.docx with:
+- SOC 2 CC6.1/CC6.7 alignment analysis
+- NIST 800-53 SC-12/SC-13/SC-17 mapping
+- GRC Documentation Framework compliance check
+- Right-sizing recommendations for ~50 employee org
+- Prioritized update recommendations
+
+Key findings:
+- Document mixes policy and standard content
+- Missing explicit control mappings
+- Recommend restructure per three-tier framework
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

@@ -1,0 +1,14 @@
+Optimize Incident Response Plan procedure for SOC 2/NIST
+
+- Added NIST IR-5 (Incident Monitoring) to control references
+- Added Section 7.7 Testing and Exercises with annual tabletop requirements
+- Added Control Summary table mapping procedure sections to SOC 2/NIST controls
+- Created proper SOC 2 audit review file (review-incident-response-plan-procedure.md)
+- Removed outdated "missing" review file
+- Updated revision history to v1.1
+
+Closes tez-0gg
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

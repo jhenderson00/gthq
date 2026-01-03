@@ -1,0 +1,12 @@
+Optimize Data Privacy Policy for SOC 2/NIST compliance [tez-2mg]
+
+- Add References section with SOC 2 (CC1, CC2, CC5, CC6) and NIST (PM-1, PL-1, PT-1-PT-4) mappings
+- Right-size policy for ~50 employee company
+- Replace DPO references with Privacy Lead/GRC Coordinator
+- Add Evidence and Recordkeeping section
+- Add cross-references to related standards (Data Lifecycle Management, Cybersecurity Policy)
+- Create review file documenting gaps and recommendations
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

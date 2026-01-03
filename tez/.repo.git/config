@@ -1,0 +1,24 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/jhenderson00/og-tez.git
+[merge "beads"]
+	driver = bd merge %A %O %A %B
+	name = bd JSONL merge driver
+[branch "polecat/nux-mjxru6as"]
+	remote = origin
+	merge = refs/heads/polecat/nux-mjxru6as
+[branch "polecat/furiosa-mjxrsw0b"]
+	remote = origin
+	merge = refs/heads/polecat/furiosa-mjxrsw0b
+[branch "polecat/capable-mjxs4bvr"]
+	remote = origin
+	merge = refs/heads/polecat/capable-mjxs4bvr
+[branch "polecat/dementus-mjxs3r97"]
+	remote = origin
+	merge = refs/heads/polecat/dementus-mjxs3r97
+[branch "polecat/valkyrie-mjxs77ho"]
+	remote = origin
+	merge = refs/heads/polecat/valkyrie-mjxs77ho

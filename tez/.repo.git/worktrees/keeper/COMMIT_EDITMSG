@@ -1,0 +1,10 @@
+SOC 2 review: Change Management Procedure optimization
+
+- Updated SOC 2 control references from CC6.1, CC6.2 to CC6.1, CC7.2, CC8.1
+- Added reference to Standard Section 7.2 for risk classification criteria
+- Added rollback verification step in Implementation section
+- Created comprehensive audit review file with control mapping analysis
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

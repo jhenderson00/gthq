@@ -1,0 +1,14 @@
+Optimize SDLC Policy for SOC 2/NIST alignment
+
+- Enhanced SOC 2 mapping: CC6.1, CC7.2, CC8.1
+- Added NIST 800-53 controls: SA-3, SA-11, SA-15
+- Improved policy statements (7.1-7.5)
+- Right-sized for ~50 employee organization
+- Created SOC 2 audit review file
+- Removed obsolete "missing" review placeholder
+
+[tez-0jp]
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

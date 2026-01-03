@@ -1,0 +1,19 @@
+SOC 2 Review: Email Retention Policy - MAJOR REVISION REQUIRED
+
+Key findings:
+- Document titled as Email Retention Policy but contains full Cybersecurity Policy
+- Sections 7-23 duplicate cybersecurity policy content
+- Missing specific email retention periods and schedules
+- No SOC 2/NIST mappings for email retention controls (PRI1.5, MP-6, MP-7)
+- GRC Framework non-compliance: title/content mismatch
+
+Recommendations:
+1. Rename to Cybersecurity Policy OR strip non-email content
+2. Create email-specific retention schedule
+3. Add proper SOC 2/NIST control mappings
+
+Closes: tez-0bi
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>

@@ -1,0 +1,47 @@
+{"ts":"2026-01-03T00:19:48Z","source":"gt","type":"session_start","actor":"mayor","payload":{"actor_pid":"mayor-596053","cwd":"/home/ubuntu/gt","role":"mayor","session_id":"mayor-596053"},"visibility":"feed"}
+{"ts":"2026-01-03T00:21:41Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-597137","cwd":"/home/ubuntu/gt/deacon","role":"deacon","session_id":"deacon-597137","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T00:21:44Z","source":"gt","type":"session_start","actor":"mayor","payload":{"actor_pid":"mayor-597485","cwd":"/home/ubuntu/gt","role":"mayor","session_id":"mayor-597485"},"visibility":"feed"}
+{"ts":"2026-01-03T00:22:04Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-01-03T00:27:44Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-604340","cwd":"/home/ubuntu/gt/deacon","role":"deacon","session_id":"deacon-604340","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T00:27:50Z","source":"gt","type":"session_start","actor":"mayor","payload":{"actor_pid":"mayor-604726","cwd":"/home/ubuntu/gt","role":"mayor","session_id":"mayor-604726"},"visibility":"feed"}
+{"ts":"2026-01-03T00:28:07Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-01-03T03:28:59Z","source":"gt","type":"session_start","actor":"/witness","payload":{"actor_pid":"/witness-777351","cwd":"/home/ubuntu/gt/tez/witness","role":"/witness","session_id":"/witness-777351","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T03:42:26Z","source":"gt","type":"session_start","actor":"deacon","payload":{"actor_pid":"deacon-798504","cwd":"/home/ubuntu/gt/deacon","role":"deacon","session_id":"deacon-798504","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T03:42:31Z","source":"gt","type":"session_start","actor":"mayor","payload":{"actor_pid":"mayor-798850","cwd":"/home/ubuntu/gt","role":"mayor","session_id":"mayor-798850"},"visibility":"feed"}
+{"ts":"2026-01-03T03:42:49Z","source":"gt","type":"nudge","actor":"deacon","payload":{"reason":"[from deacon] session-started","rig":"","target":"deacon"},"visibility":"feed"}
+{"ts":"2026-01-03T03:44:26Z","source":"gt","type":"session_start","actor":"/witness","payload":{"actor_pid":"/witness-801897","cwd":"/home/ubuntu/gt/tez/witness","role":"/witness","session_id":"/witness-801897","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T03:56:10Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"furiosa","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T03:56:17Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-72y","target":"tez/polecats/furiosa"},"visibility":"feed"}
+{"ts":"2026-01-03T03:56:31Z","source":"gt","type":"session_start","actor":"/witness","payload":{"actor_pid":"/witness-816534","cwd":"/home/ubuntu/gt/tez/witness","role":"/witness","session_id":"/witness-816534","topic":"patrol"},"visibility":"feed"}
+{"ts":"2026-01-03T03:57:10Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"nux","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T03:57:17Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-0bi","target":"tez/polecats/nux"},"visibility":"feed"}
+{"ts":"2026-01-03T03:57:35Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"slit","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T03:57:42Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-d81","target":"tez/polecats/slit"},"visibility":"feed"}
+{"ts":"2026-01-03T03:58:00Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"rictus","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T03:58:07Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-cc4","target":"tez/polecats/rictus"},"visibility":"feed"}
+{"ts":"2026-01-03T04:04:38Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"dementus","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:04:44Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-2mg","target":"tez/polecats/dementus"},"visibility":"feed"}
+{"ts":"2026-01-03T04:05:05Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"capable","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:05:12Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-apu","target":"tez/polecats/capable"},"visibility":"feed"}
+{"ts":"2026-01-03T04:05:33Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"toast","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:05:40Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-u4l","target":"tez/polecats/toast"},"visibility":"feed"}
+{"ts":"2026-01-03T04:06:01Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"dag","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:06:09Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-cqr","target":"tez/polecats/dag"},"visibility":"feed"}
+{"ts":"2026-01-03T04:06:47Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"cheedo","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:06:55Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-0jp","target":"tez/polecats/cheedo"},"visibility":"feed"}
+{"ts":"2026-01-03T04:07:19Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"valkyrie","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:07:26Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-0gg","target":"tez/polecats/valkyrie"},"visibility":"feed"}
+{"ts":"2026-01-03T04:07:51Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"keeper","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:07:58Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-h8t","target":"tez/polecats/keeper"},"visibility":"feed"}
+{"ts":"2026-01-03T04:08:26Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"morsov","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:08:33Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-bv6","target":"tez/polecats/morsov"},"visibility":"feed"}
+{"ts":"2026-01-03T04:09:52Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"ace","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:09:59Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-6wz","target":"tez/polecats/ace"},"visibility":"feed"}
+{"ts":"2026-01-03T04:10:36Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"warboy","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:10:44Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-o5h","target":"tez/polecats/warboy"},"visibility":"feed"}
+{"ts":"2026-01-03T04:11:13Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"imperator","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:11:20Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-3ek","target":"tez/polecats/imperator"},"visibility":"feed"}
+{"ts":"2026-01-03T04:11:49Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"organic","rig":"tez"},"visibility":"feed"}
+{"ts":"2026-01-03T04:11:50Z","source":"gt","type":"done","actor":"tez/cheedo","payload":{"bead":"cheedo-mjxs6ie4","branch":"polecat/cheedo-mjxs6ie4"},"visibility":"feed"}
+{"ts":"2026-01-03T04:11:55Z","source":"gt","type":"sling","actor":"mayor","payload":{"bead":"tez-gio","target":"tez/polecats/organic"},"visibility":"feed"}
+{"ts":"2026-01-03T04:12:26Z","source":"gt","type":"spawn","actor":"gt","payload":{"polecat":"coma","rig":"tez"},"visibility":"feed"}

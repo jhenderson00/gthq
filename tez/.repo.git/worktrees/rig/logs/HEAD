@@ -1,0 +1,23 @@
+6ed337199c0d5f212898ab9b0ef189624449c372 6ed337199c0d5f212898ab9b0ef189624449c372 Joshua Henderson <jhenderson00@gmail.com> 1767410805 +0100	reset: moving to HEAD
+6ed337199c0d5f212898ab9b0ef189624449c372 6ed337199c0d5f212898ab9b0ef189624449c372 Joshua Henderson <jhenderson00@gmail.com> 1767413189 +0100	checkout: moving from main to main
+6ed337199c0d5f212898ab9b0ef189624449c372 6ed337199c0d5f212898ab9b0ef189624449c372 Joshua Henderson <jhenderson00@gmail.com> 1767413197 +0100	reset: moving to HEAD
+6ed337199c0d5f212898ab9b0ef189624449c372 4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 Joshua Henderson <jhenderson00@gmail.com> 1767413198 +0100	pull origin main: Fast-forward
+4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 d332cbe32129cc72a6ce913e5c06bcce8ee3a0ad Joshua Henderson <jhenderson00@gmail.com> 1767413206 +0100	checkout: moving from main to temp-furiosa
+d332cbe32129cc72a6ce913e5c06bcce8ee3a0ad 4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 Joshua Henderson <jhenderson00@gmail.com> 1767413211 +0100	rebase (start): checkout origin/main
+4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413211 +0100	rebase (pick): SOC 2 review: Data Privacy Policy analysis
+cc6ce98e183be614f84123825c9882b9efb40f56 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413211 +0100	rebase (finish): returning to refs/heads/temp-furiosa
+cc6ce98e183be614f84123825c9882b9efb40f56 4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 Joshua Henderson <jhenderson00@gmail.com> 1767413231 +0100	checkout: moving from temp-furiosa to main
+4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413231 +0100	merge temp-furiosa: Fast-forward
+cc6ce98e183be614f84123825c9882b9efb40f56 6c6f2ccc8e90d6db8b0b4fd9cbc0da474acb118c Joshua Henderson <jhenderson00@gmail.com> 1767413257 +0100	checkout: moving from main to temp-nux
+6c6f2ccc8e90d6db8b0b4fd9cbc0da474acb118c 4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 Joshua Henderson <jhenderson00@gmail.com> 1767413262 +0100	rebase (start): checkout origin/main
+4c9c9356629db1b3eab7684aaaf9a3cac82a7d74 dbe675af426c70d8434731cf50b4baba1b6f2e49 Joshua Henderson <jhenderson00@gmail.com> 1767413262 +0100	rebase (pick): SOC 2 Review: Email Retention Policy - MAJOR REVISION REQUIRED
+dbe675af426c70d8434731cf50b4baba1b6f2e49 dbe675af426c70d8434731cf50b4baba1b6f2e49 Joshua Henderson <jhenderson00@gmail.com> 1767413262 +0100	rebase (finish): returning to refs/heads/temp-nux
+dbe675af426c70d8434731cf50b4baba1b6f2e49 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413273 +0100	checkout: moving from temp-nux to main
+cc6ce98e183be614f84123825c9882b9efb40f56 dbe675af426c70d8434731cf50b4baba1b6f2e49 Joshua Henderson <jhenderson00@gmail.com> 1767413281 +0100	checkout: moving from main to temp-nux
+dbe675af426c70d8434731cf50b4baba1b6f2e49 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413281 +0100	rebase (start): checkout origin/main
+cc6ce98e183be614f84123825c9882b9efb40f56 3eb666e65565716233cb8858b7c7de1aab4bf278 Joshua Henderson <jhenderson00@gmail.com> 1767413282 +0100	rebase (pick): SOC 2 Review: Email Retention Policy - MAJOR REVISION REQUIRED
+3eb666e65565716233cb8858b7c7de1aab4bf278 3eb666e65565716233cb8858b7c7de1aab4bf278 Joshua Henderson <jhenderson00@gmail.com> 1767413282 +0100	rebase (finish): returning to refs/heads/temp-nux
+3eb666e65565716233cb8858b7c7de1aab4bf278 cc6ce98e183be614f84123825c9882b9efb40f56 Joshua Henderson <jhenderson00@gmail.com> 1767413287 +0100	checkout: moving from temp-nux to main
+cc6ce98e183be614f84123825c9882b9efb40f56 3eb666e65565716233cb8858b7c7de1aab4bf278 Joshua Henderson <jhenderson00@gmail.com> 1767413287 +0100	merge temp-nux: Fast-forward
+3eb666e65565716233cb8858b7c7de1aab4bf278 814547fa7626e8b470f5a4a3019723158f35e11a Joshua Henderson <jhenderson00@gmail.com> 1767413524 +0100	checkout: moving from main to temp-capable
+814547fa7626e8b470f5a4a3019723158f35e11a 3eb666e65565716233cb8858b7c7de1aab4bf278 Joshua Henderson <jhenderson00@gmail.com> 1767413524 +0100	rebase (start): checkout origin/main

@@ -1,4 +1,13 @@
 {
   "version": 1,
-  "rigs": {}
+  "rigs": {
+    "tez": {
+      "git_url": "https://github.com/jhenderson00/og-tez.git",
+      "added_at": "2026-01-03T04:27:18.059934725+01:00",
+      "beads": {
+        "repo": "",
+        "prefix": "tez"
+      }
+    }
+  }
 }

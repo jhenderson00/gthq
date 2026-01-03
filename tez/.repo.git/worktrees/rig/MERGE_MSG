@@ -1,0 +1,15 @@
+Optimize Email Retention Policy for SOC 2/NIST compliance [tez-apu]
+
+- Reduced from 25 bloated sections to 8 focused sections
+- Added NIST 800-53 mappings (AU-11, SI-12)
+- Added SOC 2 TSC mappings (CC2.3, CC6.6)
+- Set practical retention periods (3yr general, 7yr legal)
+- Added References section
+- Created review file with optimization summary
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>
+
+# Conflicts:
+#	corporate-grc/reviews/review-email-retention-policy.md
